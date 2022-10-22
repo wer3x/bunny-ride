@@ -5,7 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open --config webpack.dev.js",
     "build": "NODE_ENV=production webpack --config webpack.prod.js"
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/wer3x/bunny-ride/issues"
   },
-  "homepage": "https://github.com/wer3x/bunny-ride",
+  "homepage": "https://wer3x.github.io/bunny-ride",
   "dependencies": {
     "gh-pages": "^4.0.0"
   },
