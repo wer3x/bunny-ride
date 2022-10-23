@@ -24,6 +24,7 @@
     "gh-pages": "^4.0.0"
   },
   "devDependencies": {
+    "@types/howler": "^2.2.7",
     "@typescript-eslint/eslint-plugin": "^5.40.1",
     "@typescript-eslint/parser": "^5.40.1",
     "clean-webpack-plugin": "^4.0.0",
@@ -32,10 +33,12 @@
     "eslint": "^8.25.0",
     "eslint-webpack-plugin": "^3.2.0",
     "fork-ts-checker-webpack-plugin": "^7.2.13",
+    "howler": "^2.2.3",
     "html-webpack-plugin": "^5.5.0",
     "http-server": "^14.1.1",
     "mini-css-extract-plugin": "^2.6.1",
     "node-sass": "^7.0.3",
+    "pixi-webfont-loader": "^1.0.2",
     "pixi.js": "^6.5.7",
     "sass-loader": "^13.1.0",
     "style-loader": "^3.3.1",

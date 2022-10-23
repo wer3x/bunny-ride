@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
-    /* Language and Environment */
+    /* Language and environment */
     "target": "es2016",
     /* Modules */
     "module": "commonjs",                                /* Specify what module code is generated. */
