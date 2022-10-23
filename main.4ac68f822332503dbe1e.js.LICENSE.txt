@@ -5,6 +5,28 @@ object-assign
 */
 
 /*!
+ *  Spatial Plugin - Adds support for stereo and 3D audio where Web Audio is supported.
+ *  
+ *  howler.js v2.2.3
+ *  howlerjs.com
+ *
+ *  (c) 2013-2020, James Simpson of GoldFire Studios
+ *  goldfirestudios.com
+ *
+ *  MIT License
+ */
+
+/*!
+ *  howler.js v2.2.3
+ *  howlerjs.com
+ *
+ *  (c) 2013-2020, James Simpson of GoldFire Studios
+ *  goldfirestudios.com
+ *
+ *  MIT License
+ */
+
+/*!
  * @pixi/accessibility - v6.5.7
  * Compiled Thu, 20 Oct 2022 15:13:33 UTC
  *
@@ -290,6 +312,16 @@ object-assign
  *
  * @pixi/utils is licensed under the MIT License.
  * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * pixi-webfont-loader - v1.0.2
+ * Compiled Fri, 13 Aug 2021 19:36:11 UTC
+ *
+ * pixi-webfont-loader is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ * 
+ * Copyright 2019-2021, Milton Candelero <miltoncandelero@gmail.com>, All Rights Reserved
  */
 
 /*!

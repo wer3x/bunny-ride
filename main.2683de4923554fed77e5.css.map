@@ -1,1 +1,0 @@
-{"version":3,"file":"main.2683de4923554fed77e5.css","mappings":"AAAA,KACE,qBAAsB","sources":["webpack://bunny-ride/./src/style.scss"],"sourcesContent":["body {\n  background-color: #fc0;\n}\n"],"names":[],"sourceRoot":""}
